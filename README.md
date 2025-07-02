@@ -5,7 +5,7 @@ This repository contains a presentation, focused on integrating supply chain man
 
 ## 📊 Presentation
 
-- **[Project Supply Chain Management](./presentation/Project_Supply_Chain_Management.pptx)**  
+- **[Project Supply Chain Management](./Project_Supply_Chain_Management.pptx)**  
   A professional slide deck covering:
   - Differences between operational and project SCM
   - Key elements of Project SCM
